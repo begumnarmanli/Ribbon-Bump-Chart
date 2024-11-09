@@ -1,4 +1,4 @@
-# Ribbon-Bump-Chart
+# Ribbon&Bump Chart
 
 Bu proje, 2013-2014 yılları arasındaki satış performansı verilerini analiz etmek ve görselleştirmek için tasarlanmıştır. 
 
